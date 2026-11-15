@@ -87,7 +87,7 @@ Bigtincan provides mobile automation suites with deep offline synchronization ca
 
 Self-hosted and community-maintained software projects that can be deployed to build custom mobile sales enablement workflows, field CRM synchronization, and call coaching engines 🛠️.
 
-> Listed in **descending order by GitHub star count** ⭐. Each repository badge links directly to its stargazers page.
+> Listed in **descending order by GitHub Stars_Count** ⭐. Each repository badge links directly to its stargazers page.
 
 ### Twenty [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 - **Repository:** [twentyhq/twenty](https://github.com/twentyhq/twenty) 🐙
@@ -191,7 +191,7 @@ Contributions are warmly welcomed! To suggest a mobile sales enablement platform
 
 1. Fork this repository 🍴.
 2. Create your branch: `git checkout -b feature/new-enablement-tool` 🌿.
-3. Add the software project matching the existing schema (including company scale, pricing/trial transparency, and star badges for open-source tools) 📝.
+3. Add the software project matching the existing schema (including company scale, pricing/trial transparency, and Stars_Badges for open-source tools) 📝.
 4. Commit your changes: `git commit -m "Add [Tool Name] to mobile sales enablement"` 💾.
 5. Push to your branch and submit a Pull Request 🚀.
 
